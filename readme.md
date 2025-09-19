@@ -1,4 +1,4 @@
-# PingPong AI Clip
+PingPong AI Clip
 
 自动检测乒乓球对打中的精彩回合并生成视频片段的工具（研究/工程化原型）
 
